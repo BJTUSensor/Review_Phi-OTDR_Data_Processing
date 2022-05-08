@@ -8,4 +8,4 @@ We have provided both _Applied Optics_ and _光学精密工程_ paper for better
 
 Ref: 
 1. Kandamali, D. F., Cao, X., Tian, M., Jin, Z., Dong, H., & Yu, K. Machine learning methods for identification and classification of events in ϕ-OTDR systems: a review. Applied Optics, 2022, 61(11), 2975-2997. (**Editor's Pick**)
-2. 田曼伶，刘东辉，曹晓敏，余贶琭(*),相位敏感光时域反射仪的信号处理方法综述，光学精密工程，2021,29(09):2189-2209.（编辑推荐）
+2. 田曼伶，刘东辉，曹晓敏，余贶琭(*),相位敏感光时域反射仪的信号处理方法综述，光学精密工程，2021,29(09):2189-2209.（**编辑推荐**）
